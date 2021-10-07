@@ -1,0 +1,66 @@
+[
+        {
+            "CEP INICIAL": "86000-000",
+            "CEP FINAL": "86099-969",
+            "PRAZO (em dias)": "5",
+            "PREÇO": "R$ 14,27",
+            "GRIS": "0.55%",
+            "ADVALOREM": "0.73%"
+        },
+        {
+            "CEP INICIAL": "86180-000",
+            "CEP FINAL": "86195-969",
+            "PRAZO (em dias)": "5",
+            "PREÇO": "R$ 16,48",
+            "GRIS": "0.65%",
+            "ADVALOREM": "0.75%"
+        },
+        {
+            "CEP INICIAL": "86800-000",
+            "CEP FINAL": "86815-969",
+            "PRAZO (em dias)": "5",
+            "PREÇO": "R$ 17,85",
+            "GRIS": "0.55%",
+            "ADVALOREM": "0.69%"
+        },
+        {
+            "CEP INICIAL": "86600-000",
+            "CEP FINAL": "86605-969",
+            "PRAZO (em dias)": "6",
+            "PREÇO": "R$ 19,44",
+            "GRIS": "0.55%",
+            "ADVALOREM": "0.75%"
+        },
+        {
+            "CEP INICIAL": "86700-000",
+            "CEP FINAL": "86719-969",
+            "PRAZO (em dias)": "6",
+            "PREÇO": "R$ 23,37",
+            "GRIS": "0.85%",
+            "ADVALOREM": "0.72%"
+        },
+        {
+            "CEP INICIAL": "86200-000",
+            "CEP FINAL": "86200-969",
+            "PRAZO (em dias)": "5",
+            "PREÇO": "R$ 25,11",
+            "GRIS": "0.55%",
+            "ADVALOREM": "0.75%"
+        },
+        {
+            "CEP INICIAL": "86300-000",
+            "CEP FINAL": "86300-969",
+            "PRAZO (em dias)": "5",
+            "PREÇO": "R$ 28,19",
+            "GRIS": "0.55%",
+            "ADVALOREM": "0.70%"
+        },
+        {
+            "CEP INICIAL": "86130-000",
+            "CEP FINAL": "86139-969",
+            "PRAZO (em dias)": "5",
+            "PREÇO": "R$ 30,58",
+            "GRIS": "0.49%",
+            "ADVALOREM": "0.75%"
+        }
+ ]

@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "API para cálculo de preco e entrega",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "Giovanni Pizzato Merenna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
