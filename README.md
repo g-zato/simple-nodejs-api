@@ -27,31 +27,27 @@ O serviço recebe requests no endereço /api/v1/calculo-frete, e de padrão usa 
 > cd /caminho/da/sua/pasta
 
 <p>
-4. Inicie um projeto com o comando:
- </p>
- 
-> npm init -y
 
 <p>
-5. Instale as dependências necessárias com o comando:
+4. Instale as dependências necessárias com o comando:
 </p>
 
   > npm install
   
   <p>
-6. Deixe a API rodando com o comando
+5. Deixe a API rodando com o comando
   </p>
   
   > npm start
   
   <p>
-7. Através do navegador, Postman, ou em Node, faça uma request para o endereço 
+6. Através do navegador, Postman, ou em Node, faça uma request para o endereço 
 </p>
 
 > http://localhost:5000/api/v1/calculo-frete/
 > 
 <p>
-8. Preencha os parâmetros do URL com seus dados, sendo o primeiro parâmetro seu CEP, e o segundo, o peso da sua embalagem (em gramas). Para ambos, use apenas números. Segue um exemplo de request:
+7. Preencha os parâmetros do URL com seus dados, sendo o primeiro parâmetro seu CEP, e o segundo, o peso da sua embalagem (em gramas). Para ambos, use apenas números. Segue um exemplo de request:
 </p>
 
 > http://localhost:5000/api/v1/calculo-frete/86605969/600
