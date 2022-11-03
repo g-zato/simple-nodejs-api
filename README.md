@@ -1,4 +1,4 @@
-# bld-teste-backend
+# simple-nodejs-api
 API para cálculo de preço e prazo em entregas
 
 ## Introdução
